@@ -2,7 +2,6 @@
 
 Aplicação mobile em **React Native / Expo** para capturar **foto**, **vídeo** (com áudio) e **áudio**, guardar os ficheiros na pasta da app, tentar sincronizar com a **galeria** (álbum `CameraAudioApp`) e pré-visualizar o resultado com opção de **compartilhar**.
 
-**Resumo para o campo “About” do GitHub:** *App Expo com câmera, gravação de vídeo/áudio, persistência local, galeria e partilha.*
 
 ## Funcionalidades
 
@@ -38,7 +37,3 @@ A app pede permissões de **câmera**, **microfone** e **biblioteca de media** c
 - `src/App.tsx` — fluxo da câmera, gravações e persistência  
 - `src/components/` — botões e overlays (`TapArea`, `FlipCameraButton`, `ShareIconButton`, `MediaPreviewOverlay`)  
 - `src/styles/appStyles.ts` — estilos partilhados  
-
----
-
-Projeto adequado a trabalhos académicos (TCC) ou protótipos de multimédia em dispositivo móvel.
